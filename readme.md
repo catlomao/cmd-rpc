@@ -13,6 +13,8 @@
 
 no
 # UPDATE THERE IS LINUX SUPPORT JUST USE THE rpc.bat for linux (you need to install bat extension support first before running it!)
+this article might help you:
+https://www.linux.org/threads/running-windows-batch-files-on-linux.11205/
 
 #### How Did You Make it?
 
