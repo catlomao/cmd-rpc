@@ -12,6 +12,7 @@
 #### Does This Work On Any OS?
 
 no
+# UPDATE THERE IS LINUX SUPPORT JUST USE THE rpc.bat for linux (you need to install bat extension support first before running it!)
 
 #### How Did You Make it?
 
