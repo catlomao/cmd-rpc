@@ -20,4 +20,3 @@ I build it using paper and convert it to .exe so it would work without needing t
 #### Why it shutdown after 10 Hours, Why Not 24/7?
 
 I had some problems with making it 24/7 but i will fix it soon!
-
