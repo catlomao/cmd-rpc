@@ -1,8 +1,6 @@
-![Logo](https://avatars.githubusercontent.com/u/84031819?v=4)
 # Run rpc.exe to run the rpc
 # @ COPYRIGHT github.com/catlomao 
 # This Project is Under MIT LICENSE
-
 ![App Screenshot](https://github.com/catlomao/cmd-rpc/blob/main/Screenshot%202023-03-23%20173726.png?raw=true)
 ![App Screenshot](https://github.com/catlomao/cmd-rpc/blob/main/Screenshot%202023-03-23%20173704.png?raw=true)
 ![App Screenshot](https://github.com/catlomao/cmd-rpc/blob/main/Screenshot%202023-03-23%20173613.png?raw=true)
