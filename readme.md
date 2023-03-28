@@ -1,5 +1,6 @@
 # Update 2023/28/3
 # I have fixed the 247 issue and make it more lighter 
+# im gonna upload it after i finish making it!
 # Run rpc.exe to run the rpc
 # @ COPYRIGHT github.com/catlomao 
 # This Project is Under MIT LICENSE
