@@ -20,7 +20,7 @@ https://www.linux.org/threads/running-windows-batch-files-on-linux.11205/
 
 #### How Did You Make it?
 
-I build it using paper and convert it to .exe so it would work without needing to install paper on your computer
+I build it using python and convert it to .exe so it would work without needing to install python on your computer
 
 #### Why it shutdown after 10 Hours, Why Not 24/7?
 
